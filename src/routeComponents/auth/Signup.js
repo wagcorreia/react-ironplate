@@ -102,7 +102,7 @@ function Signup(props) {
             value={state.location}
             onChange={handleChange}
           />
-
+          {/* colocando foto no perfil abaixo: */}
           <TextInput
             label="Foto do perfil"
             type="file"
