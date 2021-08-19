@@ -1,8 +1,8 @@
 import React from 'react'
-import { Link } from 'react-router-dom'
 import LogoCircle from '../assets/images/logo sem fundo.png'
-import background from '../assets/images/backparticles.jpg'
+
 import '../assets/styles/About.css'
+
 function About() {
   return (
     <div className="headerPost fadeInDown">
